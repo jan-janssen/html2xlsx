@@ -5,3 +5,4 @@ dependencies:
   - ipywidgets
   - voila
   - xlsxwriter
+  - lxml
